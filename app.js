@@ -74,3 +74,7 @@ function reiniciarJogo(){
     document.getElementById('reiniciar').setAttribute('disabled', true);
 
 }
+
+// teste 1
+
+ let teste = 1;
